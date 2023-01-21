@@ -6,3 +6,5 @@ This repository has the solutions for challenges posted in https://community.alt
 300 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-300-Where-is-the-party/m-p/884263
 
 348 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-348-Reorder-a-List-of-Names/m-p/1043727
+
+291 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-291-A-Winning-Halloween-Candy-Basket/m-p/838222
