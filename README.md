@@ -20,3 +20,5 @@ This repository has the solutions for challenges posted in https://community.alt
 2 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-2-Preparing-Delimited-Data/m-p/36622
 
 38 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-38-Data-Blending-for-Batch-Output/m-p/36578
+
+35 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-35-Data-Cleansing-Practice/m-p/36438
