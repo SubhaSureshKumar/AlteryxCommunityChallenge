@@ -16,3 +16,6 @@ This repository has the solutions for challenges posted in https://community.alt
 286 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-286-Who-turned-the-lights-off/m-p/824155
 
 169 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-169-Women-s-World-Cup-Wins/m-p/430886
+
+
+2 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-2-Preparing-Delimited-Data/m-p/36622
