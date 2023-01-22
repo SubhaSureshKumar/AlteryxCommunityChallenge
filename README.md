@@ -12,3 +12,5 @@ This repository has the solutions for challenges posted in https://community.alt
 337 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-337-Create-a-New-List-from-an-Existing-List/m-p/1002947
 
 288 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-288-Client-s-Rating-Analysis/m-p/830054
+
+286 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-286-Who-turned-the-lights-off/m-p/824155
