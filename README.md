@@ -28,3 +28,5 @@ This repository has the solutions for challenges posted in https://community.alt
 164 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-164-Retail-Therapy/td-p/414754
 
 88 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-88-Counting-Combinations/td-p/84007
+
+102 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-102-Tabulating-Flu-Data/td-p/121475
