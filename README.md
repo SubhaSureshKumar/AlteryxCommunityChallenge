@@ -24,3 +24,5 @@ This repository has the solutions for challenges posted in https://community.alt
 35 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-35-Data-Cleansing-Practice/m-p/36438
 
 222 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-222-Where-There-s-a-Whale-There-s-a-Way/td-p/595535
+
+164 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-164-Retail-Therapy/td-p/414754
