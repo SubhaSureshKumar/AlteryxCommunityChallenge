@@ -30,3 +30,5 @@ This repository has the solutions for challenges posted in https://community.alt
 88 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-88-Counting-Combinations/td-p/84007
 
 102 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-102-Tabulating-Flu-Data/td-p/121475
+
+355 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-355-Analyze-the-Olympic-Games/td-p/1069426
