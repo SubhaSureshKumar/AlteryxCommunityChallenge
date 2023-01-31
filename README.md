@@ -32,3 +32,5 @@ This repository has the solutions for challenges posted in https://community.alt
 102 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-102-Tabulating-Flu-Data/td-p/121475
 
 355 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-355-Analyze-the-Olympic-Games/td-p/1069426
+
+30 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-30-Alteryx-16-Grand-Prix-Race-1-L2/m-p/1073980#M101069
