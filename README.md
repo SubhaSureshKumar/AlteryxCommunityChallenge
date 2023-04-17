@@ -36,3 +36,5 @@ This repository has the solutions for challenges posted in https://community.alt
 30 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-30-Alteryx-16-Grand-Prix-Race-1-L2/m-p/1073980#M101069
 
 358 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-358-Goodbye-Michael-Part-1/m-p/1081084/highlight/false#M102199
+
+26 - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-26-Service-Technician-Travel-Distance/m-p/36428/highlight/false#M3
